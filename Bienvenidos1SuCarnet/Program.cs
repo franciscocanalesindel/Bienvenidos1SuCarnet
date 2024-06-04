@@ -11,6 +11,10 @@ namespace Bienvenidos1SuCarnet
         static void Main(string[] args)
         {
             Console.WriteLine("Bienvenido a la programacion en C#");
+            Console.WriteLine("Escrito por usuario2#");
+            Console.WriteLine("Escrito por usuario2#");
+            Console.WriteLine("Escrito por usuario2#");
+            Console.WriteLine("Esto va en pull request");
             Console.ReadKey();
         }
     }
